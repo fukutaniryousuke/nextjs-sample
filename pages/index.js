@@ -29,7 +29,7 @@ export default function Home({allPostsData}) {
     </Head>
     <section className={utilStyle.headingMd}> 
       <p>
-        京都府出身のエンジニアです/野球が好きです/趣味は旅行とドライブです
+        京都府出身のエンジニアです/野球が好きです/趣味は旅行とドライブです/マージャンも大好きです
       </p>
     </section>
 
